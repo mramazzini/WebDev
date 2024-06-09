@@ -31,7 +31,7 @@ const Commendations = () => {
               {commendation.title}
             </h2>
             <p className="text-md text-neutral-content italic  ">
-              "{commendation.description}"
+              &quot;{commendation.description}&quot;
             </p>
           </div>
         </div>
