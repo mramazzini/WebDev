@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Roma-Pizza",
+    "url": "https://restaurant-template-rosy.vercel.app/"
+  },
+  {
+    "id": 2,
+    "name": "tailwindcss",
+    "url": "https://tailwindcss.com/"
+  },
+  {
+    "id": 3,
+    "name": "codepen",
+    "url": "https://codepen.io/"
+  },
+  {
+    "id": 4,
+    "name": "css-tricks",
+    "url": "https://css-tricks.com/"
+  },
+  {
+    "id": 5,
+    "name": "w3schools",
+    "url": "https://www.w3schools.com/"
+  },
+  {
+    "id": 6,
+    "name": "freecodecamp",
+    "url": "https://www.freecodecamp.org/"
+  }
+]
